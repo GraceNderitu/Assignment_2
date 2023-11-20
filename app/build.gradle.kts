@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.designclass"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.designclass"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -38,7 +38,7 @@ dependencies {
 
         // Add the dependency for the Firebase Authentication library
         // When using the BoM, you don't specify versions in Firebase library dependencies
-        implementation("com.google.firebase:firebase-auth")
+        implementation("com.google.firebase:firebase-auth:22.0.0")
 
 
     implementation("androidx.appcompat:appcompat:1.6.1")
