@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556000771820",
+    "project_id": "designclass-d6982",
+    "storage_bucket": "designclass-d6982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556000771820:android:a7ef68196f5f3f036aafc9",
+        "android_client_info": {
+          "package_name": "com.example.designclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiskdCOjs23X2VnosbNvHbUyZXiEBtOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
